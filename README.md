@@ -1,4 +1,4 @@
-# Rating Prediction
+# Rating Stars Prediction ⭐
 
 ## Introduction
 
